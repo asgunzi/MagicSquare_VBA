@@ -11,3 +11,14 @@ A magic square is a square of number from 1 to size^2, such that the sum of the 
 https://en.wikipedia.org/wiki/Magic_square
 
 
+
+
+Links (em português):
+
+Página de ferramentas excel 
+https://ferramentasexcelvba.wordpress.com/
+
+
+Ideias técnicas com um pouco de filosofia
+https://ideiasesquecidas.com/
+
